@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "911025037200",
+    "project_id": "chatapp01-97558",
+    "storage_bucket": "chatapp01-97558.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911025037200:android:40a16973b000ac3bf7dd15",
+        "android_client_info": {
+          "package_name": "com.av.avmessenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD719WGyTQqSGDsui8XEZ35LO3ZxaG4Tys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
